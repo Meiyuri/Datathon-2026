@@ -14,7 +14,7 @@
 
 ### Phần 2: Trực quan hóa và Phân tích Dữ liệu (EDA)
 Phần này bao gồm 2 file để đối chiếu số liệu và hình ảnh biểu đồ:
-*   **File code (Phân tích Insight 1 & 3):** `Phần_2_EDA_(Insight_1+3).ipynb`. Chạy Notebook để xem quá trình xử lý, bóc tách dữ liệu rác và chứng minh các lỗ hổng tài chính bằng Python.
+* **File Jupyter Notebook:** `Phần_2_EDA_(Phân tích bằng Colab).ipynb`. Chạy Notebook để xem quá trình modeling, xuất file `modeling.xlsx`, cuối cùng là phần phân tích dữ liệu và chứng minh các lỗ hổng tài chính bằng Python.
 *   **File Dashboard Tableau (Toàn bộ Insight):** `Phần 2 EDA - (Phân tích bằng tableau).twbx`. Mở file bằng phần mềm Tableau để xem các biểu đồ trực quan hóa đa chiều (chuỗi cung ứng, tồn kho, phân rã nguyên nhân hoàn trả...).
 
 ### Phần 3: Mô hình Dự báo Doanh thu (Sales Forecasting)
