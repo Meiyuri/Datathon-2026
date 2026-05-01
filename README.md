@@ -14,8 +14,8 @@
 
 ### Phần 2: Trực quan hóa và Phân tích Dữ liệu (EDA)
 Phần này bao gồm 2 file để đối chiếu số liệu và hình ảnh biểu đồ:
-*   **File code (Phân tích Insight 1 & 3):** [`Phần_2_EDA_(Phân tích bằng Colab).ipynb`](Phần_2_EDA_(Phân%20tích%20bằng%20Colab).ipynb). Chạy Notebook để xem quá trình xử lý, bóc tách dữ liệu rác và chứng minh các lỗ hổng tài chính bằng Python.
-*   **File Dashboard Tableau (Toàn bộ Insight):** [`Phần 2 EDA - (Phân tích bằng tableau).twbx`](Phần%202%20EDA%20-%20(Phân%20tích%20bằng%20tableau).twbx). Mở file bằng phần mềm Tableau để xem các biểu đồ trực quan hóa đa chiều (chuỗi cung ứng, tồn kho, phân rã nguyên nhân hoàn trả...).
+*   **File code (Phân tích Insight 1 & 3):** [`Phần_2_EDA_(Phân tích bằng Colab).ipynb`](Phần_2_EDA_(Phân%20tích%20bằng%20Colab).ipynb). Chạy Notebook để xem quá trình xử lý, bóc tách dữ liệu rác và chứng minh các Lỗ hổng trong báo cáo doanh thu, Lỗ hổng R&D/Kiểm soát chất lượng bằng Python.
+*   **File Dashboard Tableau (Phân tích Insight 2 & 3):** [`Phần 2 EDA - (Phân tích bằng tableau).twbx`](Phần%202%20EDA%20-%20(Phân%20tích%20bằng%20tableau).twbx). Mở file bằng phần mềm Tableau để xem các biểu đồ trực quan hóa đa chiều trong Lỗ hổng Kho vận/Nghịch lý chuỗi cung ứng (tồn kho, phân rã nguyên nhân hoàn trả....).
 
 ### Phần 3: Mô hình Dự báo Doanh thu (Sales Forecasting)
 *   **File thực thi:** [`Phần_3_Mô_hình_Dự_báo_Doanh_thu_(Sales_Forecasting).ipynb`](Phần_3_Mô_hình_Dự_báo_Doanh_thu_(Sales_Forecasting).ipynb)
